@@ -22,7 +22,6 @@ support_menu_kb = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text="❓ Возраст приема", callback_data="question_1")],
     [InlineKeyboardButton(text="❓ Программы", callback_data="question_2")],
     [InlineKeyboardButton(text="❓ Вид спорта", callback_data="question_3")],
-    [InlineKeyboardButton(text="❓ Направления", callback_data="question_4")],
 ])
 
 # --- КНОПКА "НАЗАД" ДЛЯ ПОДМЕНЮ ---
